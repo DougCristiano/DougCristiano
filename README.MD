@@ -2,7 +2,7 @@
 
 
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Allber+Fellype+Soares+Ferreira;Nice+to+Meet+You!" alt="Typing SVG" /> 
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Douglas+Cristiano+Gomes+Neves;Nice+to+Meet+You!" alt="Typing SVG" /> 
 <img width=100% src="https://github-trophies.vercel.app/?username=AFSFerreira&theme=radical&title=AchieveSuperRank,MultiLanguage,LongTimeUser,Commits,Followers,PullRequest"/>
 <!-- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AFSFerreira&theme=radical&no-frame=false&no-bg=true&margin-w=4" /> -->
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
@@ -79,14 +79,14 @@
 <table width="100%" align="center">
  <tr>
   <td colspan="2" align="center">
-   <a href="https://github.com/AFSFerreira" title="Allber's profile">
+   <a href="https://github.com/AFSFerreira" title="Douglas's profile">
      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AFSFerreira&theme=chartreuse-dark&hide_title=true&area=true&area_color=32CD32&line=32CD32&point=32CD32&bg_color=0D1117&hide_border=true"/>
    </a>
   </td>
  </tr>
  <tr>
     <td align="center" width="60%">
-      <a href="https://github.com/AFSFerreira" title="Allber's profile">
+      <a href="https://github.com/AFSFerreira" title="Douglas's profile">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=true&layout=donut&count_private=true&bg_color=151B23"/>
       </a>
     </td>
