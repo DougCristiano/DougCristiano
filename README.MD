@@ -8,6 +8,16 @@
 
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🧑‍💻 ABOUT ME                                         -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF"/>
+</div>
+
 <br>
 
 <table align="center">
@@ -23,6 +33,32 @@
 </table>
 
 <br>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🎯 CURRENTLY                                          -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+<h2 align="center">🎯 What I'm Up To</h2>
+
+<div align="center">
+
+|  |  |
+|--|--|
+| � Currently working on | **Full-Stack Web Applications** |
+| 🌱 Currently learning | **Machine Learning & AI** |
+| 🤝 Looking to collaborate on | **Open Source Projects** |
+| 💬 Ask me about | **Python, React, Node.js** |
+| ⚡ Fun fact | I debug with `console.log` and I'm not ashamed 😄 |
+
+</div>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- �🛠️ TECH STACK                                        -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
@@ -66,19 +102,38 @@
 
 <br>
 
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🌱 CURRENTLY LEARNING                                 -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Learning"/>
+</div>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                   -->
+<!-- ══════════════════════════════════════════════════════ -->
+
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DougCristiano&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DougCristiano&hide_border=true&background=0D1117&ring=E63946&fire=FF4444&currStreakLabel=E63946&sideLabels=FF6B6B&currStreakNum=FF6B6B&dates=C9D1D9"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="38%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DougCristiano&hide_border=true&layout=compact&count_private=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DougCristiano&hide_border=true&background=0D1117&ring=E63946&fire=FF4444&currStreakLabel=E63946&sideLabels=FF6B6B&currStreakNum=FF6B6B&dates=C9D1D9"/>
 </div>
 
 <br>
@@ -90,6 +145,10 @@
 </div>
 
 <br>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🐍 SNAKE CONTRIBUTIONS                                -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
@@ -105,6 +164,48 @@
 
 <br>
 
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 📌 FEATURED PROJECTS                                  -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/DougCristiano?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍_See_all_my_repositories-E63946?style=for-the-badge&logoColor=white" alt="All Repos"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/DougCristiano?tab=repositories&sort=stargazers">
+    <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=DougCristiano&limit=3&theme=dark&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" alt="Top contributed repos"/>
+  </a>
+</div>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE                                   -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+<h2 align="center">💡 Random Dev Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&border_color=E63946" alt="Dev Quote"/>
+</div>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🤝 CONNECT WITH ME                                    -->
+<!-- ══════════════════════════════════════════════════════ -->
+
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <h2 align="center">🤝 Connect with Me</h2>
@@ -112,6 +213,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/douglascristianoneves/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=E63946" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dougcristiano@id.uff.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=DC143C" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/DougCristiano">
@@ -126,6 +231,14 @@
 </div>
 
 <br>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- FOOTER                                                -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" alt="Cat coding"/>  
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=22&text=~%20%F0%9F%94%A5%20Code%20with%20passion%2C%20learn%20with%20purpose%20%F0%9F%94%A5%20~&fontSize=16&fontColor=E63946&animation=twinkling"/>
 
