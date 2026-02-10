@@ -71,14 +71,14 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DougCristiano&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DougCristiano&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&count_private=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DougCristiano&hide_border=true&background=0D1117&ring=E63946&fire=FF4444&currStreakLabel=E63946&sideLabels=FF6B6B&currStreakNum=FF6B6B&dates=C9D1D9"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougCristiano&hide_border=true&layout=compact&count_private=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9"/>
+  <img width="38%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DougCristiano&hide_border=true&layout=compact&count_private=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9"/>
 </div>
 
 <br>
@@ -87,12 +87,6 @@
   <a href="https://github.com/DougCristiano">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DougCristiano&bg_color=0D1117&color=E63946&line=E63946&point=FF6B6B&area=true&area_color=E63946&hide_border=true"/>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DougCristiano&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6"/>
 </div>
 
 <br>
